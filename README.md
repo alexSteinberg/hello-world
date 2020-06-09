@@ -6,3 +6,5 @@
 2. tommorrow I have to  document all these steps
 
 3. the use of diff makes fun!?
+
+4. have to learn gitub markdown language! 
